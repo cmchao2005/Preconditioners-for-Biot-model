@@ -1,0 +1,1 @@
+Nsubdomains=4, overlap=3, E=1.000000, nu=0.300000, level=2, 
